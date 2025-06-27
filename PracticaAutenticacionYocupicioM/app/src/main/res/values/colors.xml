@@ -5,4 +5,5 @@
     <color name="rojo">#E40B0B</color>
     <color name="fondo">#2196F3</color>
     <color name="botones">#3F51B5</color>
+    <color name="campoTxt">#9EACFF</color>
 </resources>
