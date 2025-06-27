@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972845332034",
+    "project_id": "ejemplologin-d5160",
+    "storage_bucket": "ejemplologin-d5160.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972845332034:android:805c9aac3015cb6ef69fdb",
+        "android_client_info": {
+          "package_name": "yocupicio.martin.practicaautenticacionyocupiciom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHJLnXpEn-A8iwy4C32iYTPPhaqu2PYN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
